@@ -1834,13 +1834,7 @@
                 ]
             },
             "properties": {
-                "name": "60 dBu Service contour",
-                "styleUrl": "#hue1",
-                "styleHash": "-183623a2",
-                "stroke": "#11DDFF",
-                "stroke-opacity": 0.4666666666666667,
-                "stroke-width": 5,
-                "visibility": "1"
+                "name": "60 dBu Service contour"
             },
             "id": "WCBN-FM-97354     -0"
         }
