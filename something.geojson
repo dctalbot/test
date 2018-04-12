@@ -5,7 +5,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-83.73522, 42.27698, 0]
+        "coordinates": [-83.73522, 42.27698]
       },
       "properties": {
         "name": "WCBN-FM, Ann Arbor, MI",
